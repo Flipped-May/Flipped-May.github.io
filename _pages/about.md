@@ -50,7 +50,7 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 
 [How Do Decoder-Only LLMs Perceive Users? Rethinking Attention Masking for User Representation Learning](https://arxiv.org/abs/2602.10622)
 
-**Jiahao Yuan**, Yike Xu, Jinyong Wen, Baokun Wang, Yang Chen, Xiaotong Lin, Wuliang Huang, Ziyi Gao, Xing Fu, Yu Cheng, Weiqiang Wang
+**Jiahao Yuan †**, Yike Xu, Jinyong Wen, Baokun Wang, Yang Chen, Xiaotong Lin, Wuliang Huang, Ziyi Gao, Xing Fu, Yu Cheng, Weiqiang Wang
 
 Tech Report (Ant Group) | [Code](https://github.com/JhCircle/Deepfind-GGSM)
 </div>
@@ -62,7 +62,7 @@ Tech Report (Ant Group) | [Code](https://github.com/JhCircle/Deepfind-GGSM)
 
 [Query-as-Anchor: Scenario-Adaptive User Representation via Large Language Model](https://arxiv.org/abs/2602.14492)
 
-**Jiahao Yuan**, Yike Xu, Jinyong Wen, Baokun Wang, Ziyi Gao, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie
+**Jiahao Yuan †**, Yike Xu, Jinyong Wen, Baokun Wang, Ziyi Gao, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie
 
 Tech Report (Ant Group) | [Code](https://github.com/JhCircle/Q-Anchor)
 </div>
