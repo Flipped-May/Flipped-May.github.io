@@ -21,7 +21,7 @@ Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="
 
 My research interests broadly lie in **enhancing reasoning capabilities of LLMs/MLLMs through post-training and agent rl, and aligning model capabilities across tasks and behaviors** robustly in complex real-world environments. My long-term goal is to develop reasoning alignment and social alignment AI systems that benefit society. 
 I have published 7 papers in top international AI conferences such as ACL, AAAI, WWW, and MM, including associated competitions. I am also excited to announce the release of our newest empathetic large language model, Kardia-R1.
-As the lead contributor and first author during my internship at Ant Group , I represented the team in releasing **2 technical reports**: [Query as Anchor](https://arxiv.org/abs/2602.14492) & [How do decoder-only llm perceive user?](https://arxiv.org/abs/2602.10622).
+As the lead contributor and first author during my internship at Ant Group, I represented the team in releasing **2 technical reports**: [Query as Anchor](https://arxiv.org/abs/2602.14492) & [How do decoder-only llm perceive user?](https://arxiv.org/abs/2602.10622).
 I am currently seeking job opportunities related to large language models.
 
 Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
