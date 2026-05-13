@@ -19,13 +19,16 @@ redirect_from:
 
 Hello, I am Jiahao Yuan, currently studying Artificial Intelligence at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science and Technology from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
-My research interests broadly lie in **enhancing reasoning capabilities of LLMs/MLLMs through post-training, and aligning model capabilities across tasks and behaviors** robustly in complex real-world environments. My long-term goal is to develop reasoning alignment and social alignment AI systems that benefit society. 
+My research interests broadly lie in **enhancing reasoning capabilities of LLMs/MLLMs through post-training and agent rl, and aligning model capabilities across tasks and behaviors** robustly in complex real-world environments. My long-term goal is to develop reasoning alignment and social alignment AI systems that benefit society. 
 I have published 6 papers in top international AI conferences such as ACL, AAAI, WWW, and MM, including associated competitions. I am also excited to announce the release of our newest empathetic large language model, Kardia-R1.
+As the lead contributor and first author during my internship at Ant Group , I represented the team in releasing two technical reports: [Query as Anchor](https://arxiv.org/abs/2602.14492) & [How do decoder-only llm perceive user?](https://arxiv.org/abs/2602.10622). Special thanks to the DeepFind team!
 I am currently seeking job opportunities related to large language models.
 
 Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.com) 🤗 for relevant opportunities or potential collaborations —— I’m always open to research discussions!
 
 # 🔥 News
+- 2026.02: &nbsp;🎉🎉 Completed my 6‑month internship at Ant Group (ended Jan 2026) and published two technical reports ([Query as Anchor](https://arxiv.org/abs/2602.14492) & [How do decoder-only llm perceive user?](https://arxiv.org/abs/2602.10622)). Special thanks to the DeepFind team!
+
 - 2026.01: &nbsp;🎉🎉 Our Kardia-R1 accepted to WWW 2026 !!!
 
 - 2025.11: &nbsp;🎉🎉 One paper accepted to AAAI 2026 !!!
@@ -39,6 +42,29 @@ Feel free to reach out via email at [jamse_yuan@163.com](mailto:jamse_yuan@163.c
 - *Ongoing* 🛠️ **Maintainer**, [Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) — a curated list of LLM resources for empathy and affective computing ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Awesome-LLM-Empathy?style=social)
 
 # 📝 Publications (* Indicates Equal Contribution, † Indicates Project Leader)
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Tech Report</div><img src='./images/Deepfind-GGSM.png' alt="ggsm" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[How Do Decoder-Only LLMs Perceive Users? Rethinking Attention Masking for User Representation Learning](https://arxiv.org/abs/2602.10622)
+
+**Jiahao Yuan**, Yike Xu, Jinyong Wen, Baokun Wang, Yang Chen, Xiaotong Lin, Wuliang Huang, Ziyi Gao, Xing Fu, Yu Cheng, Weiqiang Wang
+
+Tech Report (Ant Group) | [Code](https://github.com/JhCircle/Deepfind-GGSM)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">Tech Report</div><img src='./images/Query-as-Anchor.png' alt="q-anchor" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Query-as-Anchor: Scenario-Adaptive User Representation via Large Language Model](https://arxiv.org/abs/2602.14492)
+
+**Jiahao Yuan**, Yike Xu, Jinyong Wen, Baokun Wang, Ziyi Gao, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie
+
+Tech Report (Ant Group) | [Code](https://github.com/JhCircle/Q-Anchor)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">WWW 2026</div><img src='./images/Kardia-R1.png' alt="kardia" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -142,9 +168,11 @@ AAAI 2026 Oral
 </div>
 
 ## Other Paper
+- [Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation](https://arxiv.org/abs/2605.05007) Zhiqing Cui\*, Haotong Xie\*, **Jiahao Yuan**, Cheng Yang, Hanqing Wang, Yuxin Wu, Yifan Wu, Siru Zhong, Tao Yu, Yifu Guo, Siyu Zhang, Xinlei Yu, Qibing Ren, Usman Naseem
+- [(ACL 2026 Finding) ATLAS: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://arxiv.org/abs/2601.03872) Jinyang Wu\*, Guocheng Zhai\*, Ruihan Jin\*, **Jiahao Yuan**, Yuhao Shen, Shuai Zhang, Zhengqi Wen, Jianhua Tao
 - [Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation](https://arxiv.org/abs/2505.24787) Yucheng Zhou, **Jiahao Yuan**, Qianning Wang
 - [Instruction-aware User Embedding via Synergistic Language and Representation Modeling](https://arxiv.org/abs/2510.11016) Ziyi Gao\*, Yike Xu\*, **Jiahao Yuan**, Baokun Wang, Jinyong Wen, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie
-- [ATLAS: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://arxiv.org/abs/2601.03872) Jinyang Wu\*, Guocheng Zhai\*, Ruihan Jin\*, **Jiahao Yuan**, Yuhao Shen, Shuai Zhang, Zhengqi Wen, Jianhua Tao
+
 # 🎖 Honors and Awards
 - *2023–2024* First-Class Scholarship for Academic Excellence in USST
 - *2023* IoT Track, Chinese Collegiate Computing Competition, **First Prize**
@@ -160,11 +188,12 @@ AAAI 2026 Oral
 
 # ✍️ Service
 
-- Reviewer: IJCAI (2025); WWW (2025-2026); ACL (2025-2026); EMNLP (2025); AAAI (2026)
+- Reviewer: ACL (2025-2026); EMNLP (2025-2026); AAAI (2026); WWW (2025-2026); KDD (2026); IJCAI (2025)
 
 # 💻 Internships
 - 2024.07-2024.11, ByteDance, Living Services Department – User Growth Algorithm Intern
-- 2025.06-2025.12, Ant Group, User Understanding and Representation Large Model Research Intern
+- 2025.06-2026.01, Ant Group, User Understanding and Representation Large Model Research Intern
+- 2026.01-2026.04, ByteDance, Douyin Group ,Content Understanding LLM Byteintern
 
 <div style="text-align: center;">
   <div style="display: inline-block; width: 40%;">
