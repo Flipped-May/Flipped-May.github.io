@@ -104,35 +104,25 @@ AAAI 2025 | [Code](https://github.com/Flipped-May/DialogDraw)
 </div>
 
 
-
-
 ## Other Paper
-- [Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation](https://arxiv.org/abs/2605.05007) Zhiqing Cui\*, Haotong Xie\*, **Jiahao Yuan**, Cheng Yang, Hanqing Wang, Yuxin Wu, Yifan Wu, Siru Zhong, Tao Yu, Yifu Guo, Siyu Zhang, Xinlei Yu, Qibing Ren, Usman Naseem
-- [(ACL 2026 Finding) ATLAS: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://arxiv.org/abs/2601.03872) Jinyang Wu\*, Guocheng Zhai\*, Ruihan Jin\*, **Jiahao Yuan**, Yuhao Shen, Shuai Zhang, Zhengqi Wen, Jianhua Tao
-- [Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation](https://arxiv.org/abs/2505.24787) Yucheng Zhou, **Jiahao Yuan**, Qianning Wang
-- [Instruction-aware User Embedding via Synergistic Language and Representation Modeling](https://arxiv.org/abs/2510.11016) Ziyi Gao\*, Yike Xu\*, **Jiahao Yuan**, Baokun Wang, Jinyong Wen, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie
+- [DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off](https://arxiv.org/abs/2604.13902) Xiaofan Li, Ming Yang, Zhiyuan Ma, **Shichao Ma**, Jintao Du, Yu Cheng, Weiqiang Wang, Zhizhong Zhang, Xin Tan, Yanyun Qu, Lizhuang Ma, Yuan Xie
 
 # 🎖 Honors and Awards
-- *2023–2024* First-Class Scholarship for Academic Excellence in USST
-- *2023* IoT Track, Chinese Collegiate Computing Competition, **First Prize**
-- *2023* Software Application Development Track, Chinese Collegiate Computing Competition, **Third Prize**
-- *2023* China Collegiate Computing Contest-Network Technology Challenge, **Third Prize**
-- *2022–2023* First-Class Scholarship for Academic Excellence in USST
-- *2021–2022* Outstanding Student in USST
-- *2020–2021* First-Class Scholarship for Academic Excellence in USST
+- *2024–2025* First-class Academic Scholarship in USTC
+- *2024* Outstanding Graduate in XJTU
+- *2023-2024* Lu Shidi First-class Scholarship in XJTU
+- *2022-2023* Lanqiao Cup Shaanxi Provincial Competition, Third Prize
+
 
 # 📖 Educations
-- *2024.06 - now*, Artificial Intelligence, East China Normal University. 
-- *2020.09 - 2024.06*, Computer Science & Technology, University of Shanghai for Science and Technology. 
+- *2024.06 - now*, Software engineering, University of Science and Technology of China. 
+- *2020.09 - 2024.06*, Software engineering, Xi'an Jiaotong University. 
 
-# ✍️ Service
-
-- Reviewer: ACL (2025-2026); EMNLP (2025-2026); AAAI (2026); WWW (2025-2026); KDD (2026); IJCAI (2025)
 
 # 💻 Internships
-- 2024.07-2024.11, ByteDance, Living Services Department – User Growth Algorithm Intern
-- 2025.06-2026.01, Ant Group, User Understanding and Representation Large Model Research Intern
-- 2026.01-2026.04, ByteDance, Douyin Group ,Content Understanding LLM Byteintern
+- 2025.08-2026.03, Ant Group, LLM Post-training Algorithm Intern
+- 2024.06-2024.09, NetEase Group, Fuxi Lab, MLLM Intern
+- 2023.12-2024.05, Baidu, Baidu Research (Beijing), LLM Intern
 
 <div style="text-align: center;">
   <div style="display: inline-block; width: 40%;">
