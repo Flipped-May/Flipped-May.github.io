@@ -19,7 +19,9 @@ redirect_from:
 
 Hello, I am Shichao Ma, currently studying at <a href="[https://www.ecnu.edu.cn/](https://en.ustc.edu.cn/)">University of Science and Technology of China (USTC)</a>. I received my bachelor’s degree in Software Engineering from <a href="[https://www.usst.edu.cn/](https://en.xjtu.edu.cn/)">Xi'an Jiaotong University (XJTU)</a>.
 
-My research focuses on Multi-turn Agentic RL. I have published 4 first-author papers in conferences including ACL, WWW and AAAI. Feel free to contact me for academic discussions.
+My research focuses on Multi-turn Agentic RL. I have published 4 first-author papers in conferences including ACL, WWW and AAAI. Feel free to contact me at mashichao@mail.ustc.edu.cn for academic discussions. 
+
+I am currently seeking job opportunities related to LLM.
 
 # 🔥 News
 - 2026.04: &nbsp;🎉🎉 One Paper accepted to ACL 2026 !!!
