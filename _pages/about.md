@@ -33,7 +33,7 @@ I am currently seeking job opportunities related to LLM.
 - 2024.12: &nbsp;🎉🎉 One Paper accepted to AAAI 2026 !!!
 
 
-# 📝 Publications (* Indicates Equal Contribution, † Indicates Project Leader)
+# 📝 Publication
 
 <div class='paper-box'>
 <div class='paper-box-image'>
